@@ -1,0 +1,15 @@
+dotnet new webapi -n MyApiApp
+cd MyApiApp
+This creates a project with:
+
+Program.cs (entry point)
+
+Startup.cs or minimal hosting configuration
+
+Default WeatherForecastController.cs
+
+▶️ 2. Run the API
+bash
+Copy
+Edit
+dotnet run
